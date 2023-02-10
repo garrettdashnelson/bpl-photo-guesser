@@ -32,6 +32,8 @@
 
   </div>
 
+  <div class="text-sm text-gray-800 font-light italic mt-4">Built by Garrett Dash Nelson of the <a href="https://leventhalmap.org">Leventhal Map & Education Center</a> using data from Digital Commonwealth</div>
+
 </main>
 
 <style>

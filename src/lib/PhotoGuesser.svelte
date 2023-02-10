@@ -49,7 +49,7 @@
 </script>
 
 <div>
-  <h1 class="text-3xl mb-4">When was this photo taken?</h1>
+  <h1 class="text-3xl mb-4 font-bold">When was this photo taken?</h1>
 
   {#await mf}
     <p>Loading photo ...</p>
